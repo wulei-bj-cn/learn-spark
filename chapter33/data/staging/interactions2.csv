@@ -1,0 +1,6 @@
+userId,videoId,event,eventTime
+1,5,Comment,2021-10-01 09:34:35
+5,4,Like,2021-10-01 09:34:56
+2,3,Forward,2021-10-01 09:35:20
+3,5,Forward,2021-10-01 09:35:33
+4,5,Comment,2021-10-01 09:35:54
